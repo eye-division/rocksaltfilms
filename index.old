@@ -1,0 +1,47 @@
+<html>
+<head>
+<title>Welcome to Your Web Site</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000">
+<table width="100%" border="0">
+  <tr>
+    <td>&nbsp;</td>
+    <td>
+      <div align="center"><img src="easilylogo.jpg" width="98" height="43"></div>
+    </td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>
+      <div align="center">
+        <p><font face="Arial, Helvetica, sans-serif" size="-1" color="#000066">This 
+          is the default holding page for your website. </font></p>
+        <p><font face="Arial, Helvetica, sans-serif" size="-1" color="#000066">You 
+          can now upload your own files - details on how to do this have been 
+          sent to you in your confirmation email.</font></p>
+        <p><font face="Arial, Helvetica, sans-serif" size="-1" color="#000066">Please 
+          also refer to the <a href="http://easily.co.uk/index.php3?exe=faq&sb=n">Easily 
+          FAQs</a> for further help and information.</font></p>
+	<p><font face="Arial, Helvetica, sans-serif" size="-1" color="#000066">
+	If you see this page after uploading site content you probably have not replaced the
+	index.html file.
+        </font></p>
+      </div>
+    </td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+  	<td>&nbsp;</td>
+  	<td></td>
+  </tr>
+</table>
+</body>
+</html>

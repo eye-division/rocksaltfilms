@@ -1,0 +1,29 @@
+@charset "utf-8";
+body {
+	background-color: #000;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:1em;
+	color:#FFF;
+	line-height:1.6em;
+	text-align:left;
+}
+#container {
+	width:960px;
+	margin:0 auto;
+}
+h1 {
+	font-family: "Arial Black", Gadget, sans-serif;
+	text-indent:-9999px;
+	padding:0;
+	margin:0px;
+}
+h1 a { display:block; width:960px; height: 136px; background-image:url('../unearthingthepen/images/header.jpg'); }
+.legend {
+	font-size: 1.3em;
+	color: #CCC;
+	margin:0 0 1em 1em;
+}
+img, a img { border:none; }
+a:link { color:#CCC; }
+a:visited { color:#999; }
+a:hover { color:#F90; }
